@@ -1,0 +1,53 @@
+    
+        h1 { font-size: 100px; } 
+        
+        body { 
+        
+        background-image: url("minimalistic.png");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+             } /* with this snippet of code we set up a background for the website */
+        footer { 
+        font-size: 40px;
+        bottom: 0;
+        left: 0;
+        text-align: left;
+        position: fixed;
+               } /* with snippet of code we set up our footer */
+
+        h1 { 
+
+            text-align: top;
+
+            }
+        .navbar ul {
+
+                   list-style-type: none;
+                   padding: 0px;
+                   margin: 0px;
+overflow: hidden;
+                   }    
+                   .navbar a
+                   {
+                    font-size: 20px;
+color: rgb(184, 247, 247);
+text-decoration: none;
+padding: 15px;
+display: block;
+text-align:center;
+                   }
+                   .navbar a:hover
+                   {
+background-color: azure;
+                   
+        .navbar li
+        {
+float: left;
+
+        }
+
+
+        
+    }
